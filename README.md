@@ -27,4 +27,4 @@
 
      ##Dokumentasi
 
-      ![Image Alt](https://github.com/AW2606/MyFirstKMPApp/blob/ed4eb790c158442a62e59c4d34a7050c9dcb5ca1/Display.png)
+      ![Image Alt](https://github.com/AW2606/NewsFeedSimulator/blob/6c1f52aaf60cadaf68e894cdfdf4fd810305e607/display.png)
