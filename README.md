@@ -10,7 +10,7 @@
 ## Cara Menjalankan Project
 
 1. **Melalui Android Studio**:
-   - Buka project `MyFirstKMPApp` di Android Studio.
+   - Buka project `NewsFeedSimulator` di Android Studio.
    - Pilih konfigurasi run `androidApp` untuk menjalankan aplikasi di Emulator Android atau Perangkat Fisik.
    - Klik tombol **Run (Shift + F10)**.
 
